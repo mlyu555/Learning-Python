@@ -1,0 +1,4 @@
+这是GBK文件
+
+这是相同的文件内容
+These are same contents
